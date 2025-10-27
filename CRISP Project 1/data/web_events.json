@@ -1,0 +1,302 @@
+[
+    {
+        "customer_id": 11041,
+        "event_type": "Checkout",
+        "event_time": "2004-04-07T23:32:00",
+        "page": "Touring Tire"
+    },
+    {
+        "customer_id": 11034,
+        "event_type": "Website Visit",
+        "event_time": "2004-05-15T06:38:00",
+        "page": "Water Bottle"
+    },
+    {
+        "customer_id": 11036,
+        "event_type": "Website Visit",
+        "event_time": "2004-03-30T04:18:00",
+        "page": "Touring Tire"
+    },
+    {
+        "customer_id": 11041,
+        "event_type": "Product View",
+        "event_time": "2004-04-18T13:06:00",
+        "page": "HL Road Frame"
+    },
+    {
+        "customer_id": 11005,
+        "event_type": "Checkout",
+        "event_time": "2004-02-11T23:56:00",
+        "page": "Chainring"
+    },
+    {
+        "customer_id": 11038,
+        "event_type": "Website Visit",
+        "event_time": "2004-01-21T13:44:00",
+        "page": "Home"
+    },
+    {
+        "customer_id": 11031,
+        "event_type": "Website Visit",
+        "event_time": "2004-06-29T09:21:00",
+        "page": "Accessories"
+    },
+    {
+        "customer_id": 11047,
+        "event_type": "Checkout",
+        "event_time": "2004-01-15T15:15:00",
+        "page": "Water Bottle"
+    },
+    {
+        "customer_id": 11028,
+        "event_type": "Website Visit",
+        "event_time": "2004-04-13T01:41:00",
+        "page": "HL Road Frame"
+    },
+    {
+        "customer_id": 11000,
+        "event_type": "Product View",
+        "event_time": "2004-02-12T22:34:00",
+        "page": "Gloves"
+    },
+    {
+        "customer_id": 11019,
+        "event_type": "Add to Cart",
+        "event_time": "2004-06-29T16:50:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11045,
+        "event_type": "Website Visit",
+        "event_time": "2004-05-16T09:34:00",
+        "page": "Gloves"
+    },
+    {
+        "customer_id": 11001,
+        "event_type": "Add to Cart",
+        "event_time": "2004-04-14T02:58:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11040,
+        "event_type": "Add to Cart",
+        "event_time": "2004-05-18T02:57:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11016,
+        "event_type": "Website Visit",
+        "event_time": "2004-01-02T12:26:00",
+        "page": "Touring Tire"
+    },
+    {
+        "customer_id": 11004,
+        "event_type": "Product View",
+        "event_time": "2004-02-06T10:30:00",
+        "page": "Chainring"
+    },
+    {
+        "customer_id": 11032,
+        "event_type": "Checkout",
+        "event_time": "2004-02-08T17:32:00",
+        "page": "Helmet"
+    },
+    {
+        "customer_id": 11004,
+        "event_type": "Add to Cart",
+        "event_time": "2004-01-13T06:02:00",
+        "page": "Accessories"
+    },
+    {
+        "customer_id": 11002,
+        "event_type": "Website Visit",
+        "event_time": "2004-05-16T11:43:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11047,
+        "event_type": "Website Visit",
+        "event_time": "2004-03-09T00:06:00",
+        "page": "HL Road Frame"
+    },
+    {
+        "customer_id": 11007,
+        "event_type": "Product Review",
+        "event_time": "2004-04-08T18:17:00",
+        "page": "Chainring"
+    },
+    {
+        "customer_id": 11042,
+        "event_type": "Checkout",
+        "event_time": "2004-03-10T23:30:00",
+        "page": "Road Tire"
+    },
+    {
+        "customer_id": 11049,
+        "event_type": "Product Review",
+        "event_time": "2004-05-29T05:51:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11002,
+        "event_type": "Checkout",
+        "event_time": "2004-05-03T21:24:00",
+        "page": "Accessories"
+    },
+    {
+        "customer_id": 11003,
+        "event_type": "Product Review",
+        "event_time": "2004-03-14T22:48:00",
+        "page": "Gloves"
+    },
+    {
+        "customer_id": 11023,
+        "event_type": "Website Visit",
+        "event_time": "2004-05-13T07:37:00",
+        "page": "Water Bottle"
+    },
+    {
+        "customer_id": 11041,
+        "event_type": "Add to Cart",
+        "event_time": "2004-04-23T00:07:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11044,
+        "event_type": "Add to Cart",
+        "event_time": "2004-02-22T03:42:00",
+        "page": "Mountain Tire"
+    },
+    {
+        "customer_id": 11039,
+        "event_type": "Checkout",
+        "event_time": "2004-04-18T12:54:00",
+        "page": "Chainring"
+    },
+    {
+        "customer_id": 11038,
+        "event_type": "Website Visit",
+        "event_time": "2004-03-25T07:11:00",
+        "page": "Home"
+    },
+    {
+        "customer_id": 11031,
+        "event_type": "Product Review",
+        "event_time": "2004-01-31T13:29:00",
+        "page": "Bike Stand"
+    },
+    {
+        "customer_id": 11031,
+        "event_type": "Product View",
+        "event_time": "2004-06-15T23:41:00",
+        "page": "Bike Stand"
+    },
+    {
+        "customer_id": 11016,
+        "event_type": "Website Visit",
+        "event_time": "2004-04-07T11:16:00",
+        "page": "HL Road Frame"
+    },
+    {
+        "customer_id": 11007,
+        "event_type": "Product Review",
+        "event_time": "2004-01-20T13:08:00",
+        "page": "Bike Stand"
+    },
+    {
+        "customer_id": 11045,
+        "event_type": "Product View",
+        "event_time": "2004-05-15T00:35:00",
+        "page": "Mountain-500"
+    },
+    {
+        "customer_id": 11029,
+        "event_type": "Product View",
+        "event_time": "2004-03-25T09:05:00",
+        "page": "Bike Stand"
+    },
+    {
+        "customer_id": 11019,
+        "event_type": "Add to Cart",
+        "event_time": "2004-03-24T02:42:00",
+        "page": "Gloves"
+    },
+    {
+        "customer_id": 11012,
+        "event_type": "Add to Cart",
+        "event_time": "2004-01-04T19:50:00",
+        "page": "Chainring"
+    },
+    {
+        "customer_id": 11009,
+        "event_type": "Website Visit",
+        "event_time": "2004-06-27T18:21:00",
+        "page": "Helmet"
+    },
+    {
+        "customer_id": 11015,
+        "event_type": "Product View",
+        "event_time": "2004-02-22T13:02:00",
+        "page": "Home"
+    },
+    {
+        "customer_id": 11031,
+        "event_type": "Add to Cart",
+        "event_time": "2004-01-14T05:08:00",
+        "page": "Chainring"
+    },
+    {
+        "customer_id": 11040,
+        "event_type": "Add to Cart",
+        "event_time": "2004-02-08T17:43:00",
+        "page": "Home"
+    },
+    {
+        "customer_id": 11041,
+        "event_type": "Add to Cart",
+        "event_time": "2004-01-29T14:32:00",
+        "page": "Accessories"
+    },
+    {
+        "customer_id": 11017,
+        "event_type": "Product Review",
+        "event_time": "2004-03-22T09:23:00",
+        "page": "Road Tire"
+    },
+    {
+        "customer_id": 11001,
+        "event_type": "Checkout",
+        "event_time": "2004-02-24T03:45:00",
+        "page": "Water Bottle"
+    },
+    {
+        "customer_id": 11036,
+        "event_type": "Add to Cart",
+        "event_time": "2004-02-08T15:45:00",
+        "page": "Bike Stand"
+    },
+    {
+        "customer_id": 11042,
+        "event_type": "Checkout",
+        "event_time": "2004-05-08T09:34:00",
+        "page": "Touring Tire"
+    },
+    {
+        "customer_id": 11047,
+        "event_type": "Product Review",
+        "event_time": "2004-04-23T13:42:00",
+        "page": "Accessories"
+    },
+    {
+        "customer_id": 11013,
+        "event_type": "Checkout",
+        "event_time": "2004-04-10T01:18:00",
+        "page": "HL Road Frame"
+    },
+    {
+        "customer_id": 11043,
+        "event_type": "Product View",
+        "event_time": "2004-05-05T05:55:00",
+        "page": "Touring Tire"
+    }
+]
